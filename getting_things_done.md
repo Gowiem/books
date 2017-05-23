@@ -98,3 +98,39 @@ by David Allen
   * Ground: Current actions -- Accumulated list of all the actions you need to take.
 
 ### Chapter 3 -- Getting Projects Creatively Under Way: The Five Phases of Project Planning
+
+* Chapter hits on "Enhancing Vertical Focus", which is the mindset how to think productively on the individual projects.
+* *Natural Planning Model*:
+  1. Defining purpose and principles
+    * The **why** question.
+    * Knowing about the purpose is a prime directive of focus
+    * The purpose defines success, motivates, clarifies focus, expands options, and creates decision-making criteria
+    * Great way to think about principles is to complete this sentance: "I would give others totally free rain to do this as long as they..." As long as they what?
+  2. Outcome visioning
+    * This is the **what** instead of the why.
+    * What will this project or situation really be like when it successfully appears in the world?
+  3. Brainstorming
+    * The **how** mechanism. Capturing things in an external way can give huge boost to productive output and thinking.
+    * Give yourself permission to capture and express any idea, and then later on figure out how it fits in and what do with it.
+    * Mind mapping is suggested as a way of brainstorming ideas. Core idea is presented in the center with associated ideas growing out in a somewhat free-form fashion around it. ![mind mapping](https://s3.amazonaws.com/cooltools_legacy/archives/mindmapping.web.jpg)
+    * Basic principles of Brainstorming:
+      * Don't judge, challenge, evaluate, or criticize.
+      * Go for quantity, not quality.
+      * Put analysis and organization in the background.
+  4. Organizing
+    * "Once you get all the ideas out of your head and in front of your eyes, you'll automatically notice natural relation"
+    * Identify components and subcomponents, sequences of events, and/or priorities. What are the things that must occur to create the final result?
+    * Key steps to organizing:
+      * Identify the significant pieces
+      * Sort by (one or more):
+        * components
+        * sequences
+        * priorities
+      * Detail to the required degree
+  5. Identifying next actions
+    * The basics:
+      * Decide on next actions for each of the current "moving parts" of the project.
+      * Decide on the next action in the planning process, if necessary.
+    * "A project is sufficiently planned for implementation when every next-action step has been decided on every front that can actually be moved on without some other component having to be completed first."
+    * "More to plan" can be a next action or the next step. This is a process action.
+    * If the next action is not yours, you must nevertheless clarify whose it is (this is a primary use of the Waiting For action list)
